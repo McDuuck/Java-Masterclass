@@ -1,4 +1,4 @@
-package Section6;
+package Section6ControlFlow;
 
 public class EvenDigitSum {
     public static void main(String[] args) {

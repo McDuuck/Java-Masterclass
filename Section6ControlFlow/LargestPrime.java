@@ -1,4 +1,4 @@
-package Section6;
+package Section6ControlFlow;
 
 public class LargestPrime {
     public static void main(String[] args) {

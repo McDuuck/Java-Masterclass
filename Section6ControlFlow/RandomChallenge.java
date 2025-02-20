@@ -1,4 +1,4 @@
-package Section6;
+package Section6ControlFlow;
 import java.util.Scanner;
 
 public class RandomChallenge {
